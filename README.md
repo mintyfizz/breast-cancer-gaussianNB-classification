@@ -16,5 +16,5 @@ Practice basic machine learning techniques and prepare a portfolio-worthy notebo
 - Python
 - Jupyter Notebook
 - Scikit-learn
-- Matplotlib & Seaborn
-- TensorFlow (optional)
+- Matplotlib
+
